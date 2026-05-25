@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+mark.hl-misleading {
+  background-color: #fecaca;
+  color: #991b1b;
+  padding: 1px 4px;
+  border-radius: 4px;
+  border-bottom: 2px solid #ef4444;
+}
+
+mark.hl-manipulation {
+  background-color: #fde68a;
+  color: #92400e;
+  padding: 1px 4px;
+  border-radius: 4px;
+  border-bottom: 2px solid #f59e0b;
+}
